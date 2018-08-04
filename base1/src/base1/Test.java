@@ -2,7 +2,8 @@
 package base1;
 
 /**
- * @author Pooja Karnik Program to perform single level inheritance having constructors with different parameters
+ * @author Pooja Karnik Program to perform single level inheritance having
+ *         constructors with different parameters
  *
  */
 //testing constructor invocation 
