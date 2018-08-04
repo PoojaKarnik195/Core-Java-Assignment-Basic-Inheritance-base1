@@ -1,1 +1,1 @@
-# Core-Java-Assignment-Java-Basic-Inheritance-base1
+# Core-Java-Assignment-Basic-Inheritance-base1
